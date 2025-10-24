@@ -1,16 +1,39 @@
-# React + Vite
+# 🏷️ TagIt App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive web application that allows users to **add, tag, search, and organize items efficiently**.  
+Built using **React + Vite** for fast performance and smooth user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 👥 Team Members
+| Name | Role | Responsibilities |
+|------|------|------------------|
+| **Sanjita Prakash**  | Backend | Repository setup, integration, version control, and documentation |
+| **Gracy** | Frontend Developer | UI design, React components, styling, and responsive layout |
+| **Megha** | Tester / Quality Analyst | Test case design, bug reporting, validation of features |
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ⚙️ Features
+- ➕ Add and manage tagged items  
+- 🔍 Search and filter items by name or tag  
+- 🗑️ Delete unwanted items  
+- 💾 Automatically saves data using browser storage  
+- 🎨 Clean and responsive interface  
+- ✅ Tested for usability and functionality  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧠 Tech Stack
+- **Frontend:** React + Vite  
+- **Language:** JavaScript (ES6)  
+- **Styling:** CSS  
+- **Version Control:** Git & GitHub  
+- **Testing Tools:** Manual testing + Test cases
+
+---
+
+## 🚀 How to Run Locally
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sanjita-0202/TagIt.git
